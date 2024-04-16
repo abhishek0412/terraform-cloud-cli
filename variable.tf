@@ -21,8 +21,8 @@ variable "myTag" {
   default = {
 
     Environment = "Asia"
-    Purpose     = "Open source"
-    Org         = "Open source"
+    Purpose     = "Terraform Cloud Services"
+    Org         = "Terraform Cloud"
     Team        = "Classic"
 
   }
