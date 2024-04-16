@@ -22,8 +22,8 @@ variable "myTag" {
 
     Environment   = "Asia"
     Purpose       = "Terraform Cloud Services"
-    Org           = "Terraform Cloud"
-    Team          = "Classic"
+    Org           = "Terraform CLI"
+    Team          = "Classic CLI"
     Notifications = true
 
   }
