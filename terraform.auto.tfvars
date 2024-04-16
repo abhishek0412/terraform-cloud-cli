@@ -1,2 +1,2 @@
 strResourceGroupLocation          = "eastus"
-strResourceGroupName              = "rg-Terraform-Cloud"
+strResourceGroupName              = "rg-Terraform-Cloud-Cli"
