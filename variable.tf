@@ -24,6 +24,7 @@ variable "myTag" {
     Purpose     = "Terraform Cloud Services"
     Org         = "Terraform Cloud"
     Team        = "Classic"
+    Notifications = true
 
   }
 }
