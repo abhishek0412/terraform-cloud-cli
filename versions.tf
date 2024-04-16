@@ -12,6 +12,16 @@ terraform {
   }
 }
 
+terraform {
+  cloud {
+    organization = "abhishekchoudharry"
+
+    workspaces {
+      name = "terraform-cloud-azure-CLI"
+    }
+  }
+}
+
 provider "azurerm" {
   features {
 

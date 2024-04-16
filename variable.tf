@@ -20,10 +20,10 @@ variable "myTag" {
   description = "List of tags"
   default = {
 
-    Environment = "Asia"
-    Purpose     = "Terraform Cloud Services"
-    Org         = "Terraform Cloud"
-    Team        = "Classic"
+    Environment   = "Asia"
+    Purpose       = "Terraform Cloud Services"
+    Org           = "Terraform Cloud"
+    Team          = "Classic"
     Notifications = true
 
   }
